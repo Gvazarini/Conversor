@@ -1,0 +1,30 @@
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.exe
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.deps.json
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.runtimeconfig.json
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.dll
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ref\ConversorDeMoeda.dll
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.pdb
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.AssemblyReference.cache
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfoInputs.cache
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfo.cs
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.dll
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ref\ConversorDeMoeda.dll
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.pdb
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.genruntimeconfig.cache
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.exe
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.deps.json
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.runtimeconfig.json
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.dll
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ref\ConversorDeMoeda.dll
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.pdb
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.AssemblyReference.cache
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfoInputs.cache
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfo.cs
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.dll
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ref\ConversorDeMoeda.dll
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.pdb
+C:\Users\G. Vazarini\Desktop\Projetos VS 2022\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.genruntimeconfig.cache

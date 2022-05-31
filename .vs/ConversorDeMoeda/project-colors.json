@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "093cf64e-8319-42cf-9435-0f08ef584433": {
+      "ProjectGuid": "093cf64e-8319-42cf-9435-0f08ef584433",
+      "DisplayName": "ConversorDeMoeda",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
